@@ -4,7 +4,7 @@ import java.awt.Color;
 import java.awt.Image;
 import java.net.URL;
 
-import org.fundaciobit.plugins.barcode.IBarcodePlugin;
+import org.fundaciobit.pluginsib.barcode.IBarcodePlugin;
 import org.fundaciobit.plugins.userinformation.UserInfo;
 
 import com.itextpdf.text.pdf.BarcodeQRCode;
